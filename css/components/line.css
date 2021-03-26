@@ -1,0 +1,7 @@
+.line { /* utilizando as propriedades do flexbox a parte principal foi dividida em uma linha que possui duas colunas */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;  
+       
+}
