@@ -1,0 +1,11 @@
+.container_image_logo {
+    display: inline-block; 
+    margin-bottom: 5%;    
+}
+
+    
+.image_logo {
+    height: 200px;
+    border-radius: 10%;   
+}
+
