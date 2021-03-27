@@ -1,0 +1,13 @@
+.skills_box {
+    display: flex;    
+}
+
+.skills_box .icons {
+    margin-right: 20px;
+}
+
+.skills_box .together { /* html + barra de progresso */ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
