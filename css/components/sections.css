@@ -4,3 +4,7 @@
     padding: 20px;
     min-height: 188px;
 }
+
+.sections .subtitle { /* alterou em todos os subtitles do documento */ 
+    margin-bottom: 20px;
+}
