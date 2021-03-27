@@ -6,9 +6,11 @@
  h1 = EB Garamond 400 regular, 500 regular medium, 500 italic, 700 bold
  font-family: 'EB Garamond', serif;
 
- h2, h3, li  = subtítulos 
+ h2, , li  = subtítulos 
  Source Serif Pro = 300 light, 400 regular, 400 regular italic, 600 semi-bold
  font-family: 'Source Serif Pro', serif;
+
+ h3= font-family: 'Source Serif Pro', serif;
 
  h4 = Nome das empresas = Sem serifa 
 
