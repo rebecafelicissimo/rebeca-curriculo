@@ -1,19 +1,18 @@
-.skills_box {    
+.skills-box {    
     display: flex;
     align-items: center;
     font-family: 'Source Serif Pro', serif;
-    font-size: 15px;     
+    font-size: 15px;
 }
 
-.skills_box .icons {
+.skills-box .icons {
     margin-right: 20px; 
     width: 40px; 
     margin-top: 10px; /* criei um margin-top para que os ícones ficassem mais alinhados com o texto e a barra de progresso, a ideia era centralizar aos outros elementos. */
 }
 
-.skills_box .together { /* html + barra de progresso */ 
+.skills-box .text-bar { /* html + barra de progresso */ 
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
-

@@ -3,14 +3,14 @@
     flex-wrap: wrap;
     max-width: 500px;
     margin-left: auto;   
-    margin-right: auto;    
+    margin-right: auto;
 }
 
-.wrapper-skills .skills_box:nth-child(odd) {
+.wrapper-skills .skills-box:nth-child(odd) {
     margin-right: 44px;    
 }
 
-.wrapper-skills .skills_box {
+.wrapper-skills .skills-box {
     width: 210px;
     margin-bottom: 20px;
 }

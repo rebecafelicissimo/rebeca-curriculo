@@ -2,9 +2,16 @@
     border: 2px dashed #324376;
     margin: 20px 0;
     padding: 20px;
-    min-height: 188px;
+    min-height: 221px;
 }
 
-.sections .subtitle { /* alterou em todos os subtitles do documento */ 
-    margin-bottom: 20px;
+.sections .subtitle.-second {
+    color: black;
+    text-align: center;
+    margin-bottom: 3%;
+    font-size: 25px;
+}
+
+.sections .paragraphs {
+    font-size: 18px;
 }
