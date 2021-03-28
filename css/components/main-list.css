@@ -1,0 +1,16 @@
+.main-list {
+    display:flex;
+    margin-bottom: 20px;
+}
+
+.main-list .universityDegree {
+    width: 44px;
+    height: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.main-list .main-list-itens {
+    font-size: 17;
+}
+
