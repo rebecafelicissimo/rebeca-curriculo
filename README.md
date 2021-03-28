@@ -12,7 +12,7 @@
 
  h3= font-family: 'Source Serif Pro', serif;
 
- h4 = Nome das empresas = Sem serifa 
+ h4 = Nome das empresas = font-family: 'Work Sans', sans-serif;
 
  h4, links, Parágrafos 
  Work Sans = 300 light, 400 regular, 600 semi-bold

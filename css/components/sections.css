@@ -2,14 +2,14 @@
     border: 2px dashed #324376;
     margin: 20px 0;
     padding: 20px;
-    min-height: 221px;
+    min-height: 255px;
 }
 
 .sections .subtitle.-second {
     color: black;
     text-align: center;
     margin-bottom: 3%;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .sections .paragraphs {
