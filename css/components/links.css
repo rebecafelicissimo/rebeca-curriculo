@@ -1,3 +1,7 @@
 .links { /* a */
     color: black;
 }
+
+.links:hover {
+    color: #030AA6; /* #030AA6 */ 
+}

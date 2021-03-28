@@ -1,0 +1,12 @@
+.header-logo-texts {
+    display: inline-block;    
+    padding: 1.5%;
+}
+
+.header-logo-texts .title {
+    font-size: 35px;    
+}
+
+.header-logo-texts .subtitle {
+    font-size: 28px;
+}
