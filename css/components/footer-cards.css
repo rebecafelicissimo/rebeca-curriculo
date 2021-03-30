@@ -1,0 +1,14 @@
+.footer-cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-cards .footer-article {
+    text-align: center;   
+}
+
+.footer-cards .footer-images {
+    width: 35px;
+    height: 35px;
+}
