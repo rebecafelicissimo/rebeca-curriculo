@@ -1,7 +1,4 @@
-.blockquote-box {
-     
-
-
-
-    border: 1px solid black;
+.blockquote-box .subtitleh3 {
+    margin-bottom: 20px;
+    font-size: 25px;
 }
