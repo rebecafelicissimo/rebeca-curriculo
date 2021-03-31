@@ -16,3 +16,7 @@
     flex-direction: column;
     justify-content: space-around;
 }
+
+.skills-box .icons.-size {
+    width: 100px;
+}
