@@ -1,6 +1,8 @@
 .main-list {
     display:flex;
+    align-items: center;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .main-list .main-list-itens {
@@ -12,8 +14,13 @@
     height: 15px;
     margin-right: 10px;
     margin-top: 4px;
-    
-    border: 2px solid black;
+}
+
+.main-list .progress-bar.-secondMargin {
+    width: 30px;
+    height: 15px;
+    margin-right: 22px;
+    margin-top: 4px;
 }
 
 .main-list.-second {
