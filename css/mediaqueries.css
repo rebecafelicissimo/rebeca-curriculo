@@ -113,6 +113,10 @@
         font-size: 22px;
     }
 
+    .sections .main-list {
+        margin-bottom: 25px;
+    }
+    
     .sections .subtitle.-second {
         font-size: 18px;
     }
