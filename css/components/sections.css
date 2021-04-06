@@ -1,12 +1,13 @@
 .sections {
     border: 2px dashed #324376;
+    box-sizing: border-box;
     margin: 20px 0;
     padding: 20px;
-    min-height: 245px;
 }
 
 .sections .subtitle.-second {
     color: black;
+    box-sizing: border-box;
     text-align: center;
     margin-bottom: 3%;
     font-size: 30px;
