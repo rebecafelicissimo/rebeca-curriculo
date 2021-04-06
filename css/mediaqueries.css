@@ -1,0 +1,213 @@
+@media (max-width: 768px) {
+    .header-logo-texts {
+        display: inline-block;    
+        padding: 30px 0;
+    }
+
+    .list .list-itens {
+        font-size: 18px;
+        margin-bottom: 2%;     
+    }
+
+    .line {
+        display: block;
+    }
+
+    .column {
+        display: block;
+    }
+
+    .list-itens.-size {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 425px) {
+
+    .list {
+        display: inline-block;
+        margin: 0 auto;
+    }
+
+    .list .list-itens {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }    
+
+    .header-logo-texts .title {
+        font-size: 30px;    
+    }
+    
+    .header-logo-texts .subtitle {
+        font-size: 25px;
+    }
+
+    .sections {
+        border: 1px dashed #324376;
+        box-sizing: border-box;
+        margin: 15px 0;
+        padding: 15px;
+    }
+    
+    .sections .subtitle.-second {
+        color: black;
+        box-sizing: border-box;
+        text-align: center;
+        margin-bottom: 3%;
+        font-size: 22px;
+    }
+    
+    .sections .paragraphs {
+        font-size: 15px;
+    }
+
+    .main-list {
+        display:flex;
+        align-items: center;
+        margin-bottom: 3%;
+        text-align: justify;
+    }
+    
+    .main-list .main-list-itens {
+        font-size: 15px;
+    }
+
+    .main-list.-second .subtitleh3.-second{
+        font-size: 18px;
+    }
+
+    .main-list .subtitleh4 {
+        font-size: 15px;
+    }
+
+    .footer-navigation {
+        display: block;
+    }
+
+    .list.-second {
+        margin-bottom: 15px;
+    }
+
+    .footer-cards .footer-images {
+        width: 15px;
+        height: 15px;
+    }
+
+    .list-itens.-second {
+        font-size: 10px;
+    }
+    
+
+}
+
+@media (max-width: 375px) {
+    .logo {
+        height: 150px;
+    }
+
+    .header-logo-texts .title {
+        font-size: 28px;    
+    }
+    
+    .header-logo-texts .subtitle {
+        font-size: 22px;
+    }
+
+    .sections .subtitle.-second {
+        font-size: 18px;
+    }
+
+    .sections .paragraphs {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .sections .main-list .main-list-itens {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .sections .main-list .university-degree {
+        height: 20px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    .sections .main-list .progress-bar.-size {
+        height: 10px;
+        width: 30px;
+    }
+
+    .sections .wrapper-skills .skills-box .icons {
+        width: 25px;
+    }
+
+    .sections .wrapper-skills .skills-box .text-bar .subtitleh3 {
+        font-size: 14px;
+    }    
+}
+
+@media (max-width: 320px) {
+    .logo {
+        height: 120px;
+    }
+
+    .header-logo-texts {
+        padding-bottom: 15px;
+    }
+
+    .header-logo-texts .title {
+        font-size: 24px;   
+    }
+    
+    .header-logo-texts .subtitle {
+        font-size: 18px;
+    }
+
+    .navigation .list .list-itens {
+        font-size: 11px;
+    }
+
+    .sections .subtitle.-second {
+        font-size: 18px;
+    }
+
+    .sections .subtitle.-second {
+        font-size: 15px;
+    }
+
+    .sections .paragraphs {
+        font-size: 11px;
+        line-height: 18px;
+    }
+
+    .sections .main-list {
+        margin-bottom: 25px;
+    }
+
+    .sections .subtitle.-second {
+        font-size: 20px;
+    }
+
+    .sections .main-list .main-list-itens {
+        font-size: 11px;
+        line-height: 18px;
+    }
+
+    .sections .main-list .subtitleh3.-second {
+        font-size: 17px
+    }
+
+    .sections .main-list .subtitleh4 {
+        font-size: 13px
+    }
+
+    .sections .main-list .progress-bar.-size {
+        height: 10px;
+        width: 30px;
+    } 
+
+    .footer .list .list-itens.-size {
+        font-size: 11px;
+    }
+}
