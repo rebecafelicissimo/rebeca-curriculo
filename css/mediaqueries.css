@@ -20,6 +20,10 @@
     .list-itens.-size {
         font-size: 15px;
     }
+
+    .sections .main-list {
+        margin-bottom: 25px;
+    }
 }
 
 @media (max-width: 425px) {
@@ -47,6 +51,10 @@
         box-sizing: border-box;
         margin: 15px 0;
         padding: 15px;
+    }
+
+    .sections .main-list {
+        margin-bottom: 25px;
     }
     
     .sections .subtitle.-second {
@@ -209,7 +217,16 @@
     .sections .main-list .progress-bar.-size {
         height: 10px;
         width: 30px;
-    } 
+    }
+    
+    .sections .wrapper-skills .skills-box  {
+        display: block;
+        margin: 0 auto;        
+    }
+
+    .sections .wrapper-skills .skills-box .text-bar {
+        margin-bottom: 20px;
+    }
 
     .footer .list .list-itens.-size {
         font-size: 11px;
