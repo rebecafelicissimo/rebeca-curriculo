@@ -88,6 +88,14 @@
         font-size: 15px;
     }
 
+    .sections .wrapper-skills .skills-box  {
+        margin: 0 auto;        
+     }
+ 
+     .sections .wrapper-skills .skills-box .text-bar {
+         margin-bottom: 20px;
+     }
+
     .footer-navigation {
         display: block;
     }
@@ -156,7 +164,16 @@
 
     .sections .wrapper-skills .skills-box .text-bar .subtitleh3 {
         font-size: 14px;
-    }    
+    }  
+
+     
+    .sections .wrapper-skills .skills-box  {        
+        margin: 0 auto;        
+    }
+
+    .sections .wrapper-skills .skills-box .text-bar {
+        margin-bottom: 20px;
+    }
 }
 
 @media (max-width: 320px) {
@@ -220,8 +237,7 @@
     }
     
     .sections .wrapper-skills .skills-box  {
-        display: block;
-        margin: 0 auto;        
+       margin: 0 auto;        
     }
 
     .sections .wrapper-skills .skills-box .text-bar {
