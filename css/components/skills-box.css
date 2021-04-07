@@ -1,21 +1,22 @@
 .skills-box {    
     display: flex;
+    justify-content: center;
     align-items: center;
     font-family: 'Source Serif Pro', serif;
     font-size: 15px;
 }
 
 .skills-box .icons {
-    margin-right: 20px; 
     width: 40px; 
-    margin-top: 10px; /* criei um margin-top para que os ícones ficassem mais alinhados com o texto e a barra de progresso, a ideia era centralizar aos outros elementos. */
+    margin-top: 10px; /* criei um margin-top para que os ícones ficassem mais alinhados com o texto e a barra de progresso, a ideia era centralizar aos outros elementos. */ 
 }
 
+
 .skills-box .text-bar { /* html + barra de progresso */ 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-}
+    display: block;
+    text-align: center;    
+} 
+
 
 .skills-box .icons.-size {
     width: 100px;

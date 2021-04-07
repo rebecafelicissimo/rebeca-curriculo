@@ -1,9 +1,13 @@
 .wrapper-skills {
-    display: flex;
+    display: flex;    
     flex-wrap: wrap;
+    align-items: center;
+    
     max-width: 500px;
     margin-left: auto;   
     margin-right: auto;
+
+
 }
 
 .wrapper-skills .skills-box:nth-child(odd) {
@@ -15,6 +19,3 @@
     margin-bottom: 20px;
 }
 
-.wrapper-skills .progress_bar {
-    width: 145px;
-}
